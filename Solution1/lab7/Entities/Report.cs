@@ -1,4 +1,4 @@
-﻿namespace lab7.Entitites;
+﻿namespace lab7.Entities;
 
 public class Report
 {

@@ -1,4 +1,4 @@
-﻿using lab7.Entitites;
+﻿using lab7.Entities;
 
 namespace lab7.Repositories.Interfaces;
 
