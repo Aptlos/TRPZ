@@ -7,4 +7,12 @@
         <Nullable>enable</Nullable>
     </PropertyGroup>
 
+    <ItemGroup>
+      <Folder Include="EF" />
+      <Folder Include="Entitites" />
+      <Folder Include="Repositories\Impl" />
+      <Folder Include="Repositories\Interfaces" />
+      <Folder Include="UnitOfWork" />
+    </ItemGroup>
+
 </Project>
