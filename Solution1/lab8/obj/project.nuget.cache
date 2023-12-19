@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "wkmcOCcjF1/KXRyAUr0B1VavhiZujUlD7vdsC9IqtL2gEPT4ARN3ynwqOLq7jOhLms/G4wWwR4qZQgPFxBTvEQ==",
+  "dgSpecHash": "NPqUT8CQulBtvAIZStuooiDnr9A+HqXSonHQZELpvJHIYNZ+/ozzY2/y2rmWi12POFtn/Wztioy5ysUTjIPxMA==",
   "success": true,
-  "projectFilePath": "C:\\Programming\\TRPZ\\Reports\\lab8\\lab8.csproj",
+  "projectFilePath": "C:\\Programming\\TRPZ\\Solution1\\lab8\\lab8.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Артём\\.nuget\\packages\\castle.core\\5.1.1\\castle.core.5.1.1.nupkg.sha512",
     "C:\\Users\\Артём\\.nuget\\packages\\microsoft.entityframeworkcore\\7.0.0\\microsoft.entityframeworkcore.7.0.0.nupkg.sha512",

@@ -1623,19 +1623,6 @@
             "related": ".xml"
           }
         }
-      },
-      "lab7/1.0.0": {
-        "type": "project",
-        "framework": ".NETCoreApp,Version=v7.0",
-        "dependencies": {
-          "Microsoft.EntityFrameworkCore": "7.0.0"
-        },
-        "compile": {
-          "bin/placeholder/lab7.dll": {}
-        },
-        "runtime": {
-          "bin/placeholder/lab7.dll": {}
-        }
       }
     }
   },
@@ -5413,18 +5400,12 @@
         "xunit.extensibility.execution.2.6.3.nupkg.sha512",
         "xunit.extensibility.execution.nuspec"
       ]
-    },
-    "lab7/1.0.0": {
-      "type": "project",
-      "path": "../../Solution1/lab7/lab7.csproj",
-      "msbuildProject": "../../Solution1/lab7/lab7.csproj"
     }
   },
   "projectFileDependencyGroups": {
     "net7.0": [
       "Microsoft.EntityFrameworkCore >= 7.0.0",
       "Moq >= 4.20.70",
-      "lab7 >= 1.0.0",
       "xunit >= 2.6.3"
     ]
   },
@@ -5434,11 +5415,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Programming\\TRPZ\\Reports\\lab8\\lab8.csproj",
+      "projectUniqueName": "C:\\Programming\\TRPZ\\Solution1\\lab8\\lab8.csproj",
       "projectName": "lab8",
-      "projectPath": "C:\\Programming\\TRPZ\\Reports\\lab8\\lab8.csproj",
+      "projectPath": "C:\\Programming\\TRPZ\\Solution1\\lab8\\lab8.csproj",
       "packagesPath": "C:\\Users\\Артём\\.nuget\\packages\\",
-      "outputPath": "C:\\Programming\\TRPZ\\Reports\\lab8\\obj\\",
+      "outputPath": "C:\\Programming\\TRPZ\\Solution1\\lab8\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Артём\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -5452,11 +5433,7 @@
       "frameworks": {
         "net7.0": {
           "targetAlias": "net7.0",
-          "projectReferences": {
-            "C:\\Programming\\TRPZ\\Solution1\\lab7\\lab7.csproj": {
-              "projectPath": "C:\\Programming\\TRPZ\\Solution1\\lab7\\lab7.csproj"
-            }
-          }
+          "projectReferences": {}
         }
       },
       "warningProperties": {
