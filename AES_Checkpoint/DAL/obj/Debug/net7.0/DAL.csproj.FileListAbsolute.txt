@@ -1,0 +1,14 @@
+C:\Programming\TRPZ\AES_Checkpoint\DAL\bin\Debug\net7.0\DAL.deps.json
+C:\Programming\TRPZ\AES_Checkpoint\DAL\bin\Debug\net7.0\DAL.runtimeconfig.json
+C:\Programming\TRPZ\AES_Checkpoint\DAL\bin\Debug\net7.0\DAL.dll
+C:\Programming\TRPZ\AES_Checkpoint\DAL\bin\Debug\net7.0\DAL.pdb
+C:\Programming\TRPZ\AES_Checkpoint\DAL\obj\Debug\net7.0\DAL.csproj.AssemblyReference.cache
+C:\Programming\TRPZ\AES_Checkpoint\DAL\obj\Debug\net7.0\DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Programming\TRPZ\AES_Checkpoint\DAL\obj\Debug\net7.0\DAL.AssemblyInfoInputs.cache
+C:\Programming\TRPZ\AES_Checkpoint\DAL\obj\Debug\net7.0\DAL.AssemblyInfo.cs
+C:\Programming\TRPZ\AES_Checkpoint\DAL\obj\Debug\net7.0\DAL.csproj.CoreCompileInputs.cache
+C:\Programming\TRPZ\AES_Checkpoint\DAL\obj\Debug\net7.0\DAL.dll
+C:\Programming\TRPZ\AES_Checkpoint\DAL\obj\Debug\net7.0\refint\DAL.dll
+C:\Programming\TRPZ\AES_Checkpoint\DAL\obj\Debug\net7.0\DAL.pdb
+C:\Programming\TRPZ\AES_Checkpoint\DAL\obj\Debug\net7.0\DAL.genruntimeconfig.cache
+C:\Programming\TRPZ\AES_Checkpoint\DAL\obj\Debug\net7.0\ref\DAL.dll
