@@ -47,6 +47,7 @@ public class BaseRepositoryUnitTest
                 ))
             .Returns(mockDbSet.Object);
         Report expectedReport = new Report() { ReportId = 1 };
+        
         mockDbSet.Setup(mock => mock.Find(expectedReport.ReportId))
             .Returns(expectedReport);
         var repository = new TestReportRepository(mockContext.Object);
@@ -69,6 +70,7 @@ public class BaseRepositoryUnitTest
         DbContextOptions opt = new DbContextOptionsBuilder<ReportContext>().Options;
         var mockContext = new Mock<ReportContext>(opt);
         var mockDbSet = new Mock<DbSet<Report>>();
+        
         mockContext
             .Setup(context =>
                 context.Set<Report>(
