@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BLL", "BLL\BLL.csproj", "{9
 		{E9F1E2EF-4AE0-4E78-BD6E-546F2F69909A} = {E9F1E2EF-4AE0-4E78-BD6E-546F2F69909A}
 	EndProjectSection
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CCL", "CCL\CCL.csproj", "{02DFDA1C-B758-4A33-B623-FA8FC900510D}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,5 +29,9 @@ Global
 		{989C2F97-AB71-4532-93D8-6D84D7ECAF9F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{989C2F97-AB71-4532-93D8-6D84D7ECAF9F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{989C2F97-AB71-4532-93D8-6D84D7ECAF9F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{02DFDA1C-B758-4A33-B623-FA8FC900510D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{02DFDA1C-B758-4A33-B623-FA8FC900510D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{02DFDA1C-B758-4A33-B623-FA8FC900510D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{02DFDA1C-B758-4A33-B623-FA8FC900510D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
