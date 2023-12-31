@@ -5,6 +5,6 @@ namespace DAL.UnitOfWork;
 public interface IUnitOfWork : IDisposable
 {
     IReportRepository Reports { get; }
-    IUserRepository Users { get; }
+    IReasonRepository Reasons { get; }
     void Save();
 }

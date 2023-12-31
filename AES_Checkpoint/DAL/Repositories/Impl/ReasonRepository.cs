@@ -4,9 +4,9 @@ using DAL.Repositories.Interfaces;
 
 namespace DAL.Repositories.Impl;
 
-public class UserRepository : BaseRepository<User>, IUserRepository
+public class ReasonRepository : BaseRepository<Reason>, IReasonRepository
 {
-    internal UserRepository(ReportContext context)
+    internal ReasonRepository(ReportContext context)
         : base(context)
     {
     }

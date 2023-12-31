@@ -11,7 +11,7 @@ public class EFUnitOfWork
 {
     private ReportContext db;
     private ReportRepository reportRepository;
-    private UserRepository userRepository;
+    private ReasonRepository reasonRepository;
 
     public EFUnitOfWork(DbContextOptions options)
     {
@@ -28,13 +28,13 @@ public class EFUnitOfWork
         }
     }
 
-    public IUserRepository Users
+    public IReasonRepository Reasons
     {
         get
         {
-            if (userRepository == null)
-                userRepository = new UserRepository(db);
-            return userRepository;
+            if (reasonRepository == null)
+                reasonRepository = new ReasonRepository(db);
+            return reasonRepository;
         }
     }
 
