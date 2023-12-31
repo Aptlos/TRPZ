@@ -1,6 +1,9 @@
-﻿namespace BLL.Services.Interfaces;
+﻿using BLL.DTO;
 
-public class IReportService
+namespace BLL.Services.Interfaces;
+
+public interface IReportService
 {
-    
+    IEnumerable<ReportDTO> GetReports(int page);
+
 }
