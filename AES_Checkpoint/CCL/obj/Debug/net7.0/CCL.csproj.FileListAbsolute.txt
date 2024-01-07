@@ -1,0 +1,12 @@
+C:\Programming\TRPZ\AES_Checkpoint\CCL\bin\Debug\net7.0\CCL.deps.json
+C:\Programming\TRPZ\AES_Checkpoint\CCL\bin\Debug\net7.0\CCL.dll
+C:\Programming\TRPZ\AES_Checkpoint\CCL\bin\Debug\net7.0\CCL.pdb
+C:\Programming\TRPZ\AES_Checkpoint\CCL\obj\Debug\net7.0\CCL.csproj.AssemblyReference.cache
+C:\Programming\TRPZ\AES_Checkpoint\CCL\obj\Debug\net7.0\CCL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Programming\TRPZ\AES_Checkpoint\CCL\obj\Debug\net7.0\CCL.AssemblyInfoInputs.cache
+C:\Programming\TRPZ\AES_Checkpoint\CCL\obj\Debug\net7.0\CCL.AssemblyInfo.cs
+C:\Programming\TRPZ\AES_Checkpoint\CCL\obj\Debug\net7.0\CCL.csproj.CoreCompileInputs.cache
+C:\Programming\TRPZ\AES_Checkpoint\CCL\obj\Debug\net7.0\CCL.dll
+C:\Programming\TRPZ\AES_Checkpoint\CCL\obj\Debug\net7.0\refint\CCL.dll
+C:\Programming\TRPZ\AES_Checkpoint\CCL\obj\Debug\net7.0\CCL.pdb
+C:\Programming\TRPZ\AES_Checkpoint\CCL\obj\Debug\net7.0\ref\CCL.dll

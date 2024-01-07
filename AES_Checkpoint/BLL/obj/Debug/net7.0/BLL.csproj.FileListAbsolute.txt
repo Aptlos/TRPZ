@@ -1,0 +1,17 @@
+C:\Programming\TRPZ\AES_Checkpoint\BLL\bin\Debug\net7.0\BLL.deps.json
+C:\Programming\TRPZ\AES_Checkpoint\BLL\bin\Debug\net7.0\BLL.dll
+C:\Programming\TRPZ\AES_Checkpoint\BLL\bin\Debug\net7.0\BLL.pdb
+C:\Programming\TRPZ\AES_Checkpoint\BLL\bin\Debug\net7.0\CCL.dll
+C:\Programming\TRPZ\AES_Checkpoint\BLL\bin\Debug\net7.0\DAL.dll
+C:\Programming\TRPZ\AES_Checkpoint\BLL\bin\Debug\net7.0\CCL.pdb
+C:\Programming\TRPZ\AES_Checkpoint\BLL\bin\Debug\net7.0\DAL.pdb
+C:\Programming\TRPZ\AES_Checkpoint\BLL\obj\Debug\net7.0\BLL.csproj.AssemblyReference.cache
+C:\Programming\TRPZ\AES_Checkpoint\BLL\obj\Debug\net7.0\BLL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Programming\TRPZ\AES_Checkpoint\BLL\obj\Debug\net7.0\BLL.AssemblyInfoInputs.cache
+C:\Programming\TRPZ\AES_Checkpoint\BLL\obj\Debug\net7.0\BLL.AssemblyInfo.cs
+C:\Programming\TRPZ\AES_Checkpoint\BLL\obj\Debug\net7.0\BLL.csproj.CoreCompileInputs.cache
+C:\Programming\TRPZ\AES_Checkpoint\BLL\obj\Debug\net7.0\BLL.csproj.CopyComplete
+C:\Programming\TRPZ\AES_Checkpoint\BLL\obj\Debug\net7.0\BLL.dll
+C:\Programming\TRPZ\AES_Checkpoint\BLL\obj\Debug\net7.0\refint\BLL.dll
+C:\Programming\TRPZ\AES_Checkpoint\BLL\obj\Debug\net7.0\BLL.pdb
+C:\Programming\TRPZ\AES_Checkpoint\BLL\obj\Debug\net7.0\ref\BLL.dll
