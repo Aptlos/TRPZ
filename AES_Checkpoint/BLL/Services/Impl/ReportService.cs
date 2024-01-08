@@ -40,11 +40,11 @@ public class ReportService: IReportService
             new MapperConfiguration(
                 cfg => cfg.CreateMap<Report, ReportDTO>()
                 ).CreateMapper();
-        var streetsDto = 
+        var reportsDto = 
             mapper
                 .Map<IEnumerable<Report>, List<ReportDTO>>(
                     streetsEntities);
-        return streetsDto;
+        return reportsDto;
     }
 
 }
